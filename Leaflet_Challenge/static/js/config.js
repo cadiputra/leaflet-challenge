@@ -1,0 +1,2 @@
+// API key
+const MAP_KEY = "pk.eyJ1IjoiY2FkaXB1dHJhIiwiYSI6ImNsM3R4eHRyMDI2dDkzcG05b2xodTU5YmQifQ.Ow_-T_GAAEZ5HsvT7vAjLQ"
